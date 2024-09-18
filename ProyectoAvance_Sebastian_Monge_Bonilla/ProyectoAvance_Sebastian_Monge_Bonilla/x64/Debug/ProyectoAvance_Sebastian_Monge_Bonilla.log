@@ -1,0 +1,40 @@
+﻿  Information.cpp
+  Movies.cpp
+C:\Users\smong\source\repos\ProyectoAvance_Sebastian_Monge_Bonilla\ProyectoAvance_Sebastian_Monge_Bonilla\Movies.cpp(17,14): error C2084: la función 'void Movies::setName(std::string)' ya tiene un cuerpo
+C:\Users\smong\source\repos\ProyectoAvance_Sebastian_Monge_Bonilla\ProyectoAvance_Sebastian_Monge_Bonilla\Movies.h(16,7): message : vea la definición anterior de 'setName'
+C:\Users\smong\source\repos\ProyectoAvance_Sebastian_Monge_Bonilla\ProyectoAvance_Sebastian_Monge_Bonilla\Movies.cpp(18,23): error C2259: "Movies": no se puede crear una instancia de una clase abstract
+C:\Users\smong\source\repos\ProyectoAvance_Sebastian_Monge_Bonilla\ProyectoAvance_Sebastian_Monge_Bonilla\Movies.h(6,7): message : vea la declaración de 'Movies'
+C:\Users\smong\source\repos\ProyectoAvance_Sebastian_Monge_Bonilla\ProyectoAvance_Sebastian_Monge_Bonilla\Movies.cpp(18,23): message : debido a los siguientes miembros:
+C:\Users\smong\source\repos\ProyectoAvance_Sebastian_Monge_Bonilla\ProyectoAvance_Sebastian_Monge_Bonilla\Movies.cpp(18,23): message : 'void Movies::number(int)': es abstracto
+C:\Users\smong\source\repos\ProyectoAvance_Sebastian_Monge_Bonilla\ProyectoAvance_Sebastian_Monge_Bonilla\Movies.h(14,15): message : vea la declaración de 'Movies::number'
+C:\Users\smong\source\repos\ProyectoAvance_Sebastian_Monge_Bonilla\ProyectoAvance_Sebastian_Monge_Bonilla\Movies.cpp(18,23): message : 'void Movies::number(void)': es abstracto
+C:\Users\smong\source\repos\ProyectoAvance_Sebastian_Monge_Bonilla\ProyectoAvance_Sebastian_Monge_Bonilla\Movies.h(13,15): message : vea la declaración de 'Movies::number'
+C:\Users\smong\source\repos\ProyectoAvance_Sebastian_Monge_Bonilla\ProyectoAvance_Sebastian_Monge_Bonilla\Movies.cpp(18,30): error C2275: 'Movies': se esperaba una expresión en lugar de un tipo
+C:\Users\smong\source\repos\ProyectoAvance_Sebastian_Monge_Bonilla\ProyectoAvance_Sebastian_Monge_Bonilla\Movies.cpp(18,52): error C2259: "Movies": no se puede crear una instancia de una clase abstract
+C:\Users\smong\source\repos\ProyectoAvance_Sebastian_Monge_Bonilla\ProyectoAvance_Sebastian_Monge_Bonilla\Movies.h(6,7): message : vea la declaración de 'Movies'
+C:\Users\smong\source\repos\ProyectoAvance_Sebastian_Monge_Bonilla\ProyectoAvance_Sebastian_Monge_Bonilla\Movies.cpp(18,52): message : debido a los siguientes miembros:
+C:\Users\smong\source\repos\ProyectoAvance_Sebastian_Monge_Bonilla\ProyectoAvance_Sebastian_Monge_Bonilla\Movies.cpp(18,52): message : 'void Movies::number(int)': es abstracto
+C:\Users\smong\source\repos\ProyectoAvance_Sebastian_Monge_Bonilla\ProyectoAvance_Sebastian_Monge_Bonilla\Movies.h(14,15): message : vea la declaración de 'Movies::number'
+C:\Users\smong\source\repos\ProyectoAvance_Sebastian_Monge_Bonilla\ProyectoAvance_Sebastian_Monge_Bonilla\Movies.cpp(18,52): message : 'void Movies::number(void)': es abstracto
+C:\Users\smong\source\repos\ProyectoAvance_Sebastian_Monge_Bonilla\ProyectoAvance_Sebastian_Monge_Bonilla\Movies.h(13,15): message : vea la declaración de 'Movies::number'
+C:\Users\smong\source\repos\ProyectoAvance_Sebastian_Monge_Bonilla\ProyectoAvance_Sebastian_Monge_Bonilla\Movies.cpp(18,85): error C2143: error de sintaxis: falta ')' delante de ';'
+C:\Users\smong\source\repos\ProyectoAvance_Sebastian_Monge_Bonilla\ProyectoAvance_Sebastian_Monge_Bonilla\Movies.cpp(18,58): error C2259: "Movies": no se puede crear una instancia de una clase abstract
+C:\Users\smong\source\repos\ProyectoAvance_Sebastian_Monge_Bonilla\ProyectoAvance_Sebastian_Monge_Bonilla\Movies.h(6,7): message : vea la declaración de 'Movies'
+C:\Users\smong\source\repos\ProyectoAvance_Sebastian_Monge_Bonilla\ProyectoAvance_Sebastian_Monge_Bonilla\Movies.cpp(18,58): message : debido a los siguientes miembros:
+C:\Users\smong\source\repos\ProyectoAvance_Sebastian_Monge_Bonilla\ProyectoAvance_Sebastian_Monge_Bonilla\Movies.cpp(18,58): message : 'void Movies::number(int)': es abstracto
+C:\Users\smong\source\repos\ProyectoAvance_Sebastian_Monge_Bonilla\ProyectoAvance_Sebastian_Monge_Bonilla\Movies.h(14,15): message : vea la declaración de 'Movies::number'
+C:\Users\smong\source\repos\ProyectoAvance_Sebastian_Monge_Bonilla\ProyectoAvance_Sebastian_Monge_Bonilla\Movies.cpp(18,58): message : 'void Movies::number(void)': es abstracto
+C:\Users\smong\source\repos\ProyectoAvance_Sebastian_Monge_Bonilla\ProyectoAvance_Sebastian_Monge_Bonilla\Movies.h(13,15): message : vea la declaración de 'Movies::number'
+C:\Users\smong\source\repos\ProyectoAvance_Sebastian_Monge_Bonilla\ProyectoAvance_Sebastian_Monge_Bonilla\Movies.cpp(18,86): error C2059: error de sintaxis: ')'
+  Schedule.cpp
+C:\Users\smong\source\repos\ProyectoAvance_Sebastian_Monge_Bonilla\ProyectoAvance_Sebastian_Monge_Bonilla\Schedule.cpp(8,17): error C2084: la función 'void Schedule::order(int)' ya tiene un cuerpo
+C:\Users\smong\source\repos\ProyectoAvance_Sebastian_Monge_Bonilla\ProyectoAvance_Sebastian_Monge_Bonilla\Schedule.h(18,7): message : vea la definición anterior de 'order'
+  Theatres.cpp
+C:\Users\smong\source\repos\ProyectoAvance_Sebastian_Monge_Bonilla\ProyectoAvance_Sebastian_Monge_Bonilla\Theatres.cpp(4,11): error C2084: la función 'Theatres::Theatres(void)' ya tiene un cuerpo
+C:\Users\smong\source\repos\ProyectoAvance_Sebastian_Monge_Bonilla\ProyectoAvance_Sebastian_Monge_Bonilla\Theatres.h(12,2): message : vea la definición anterior de '{ctor}'
+C:\Users\smong\source\repos\ProyectoAvance_Sebastian_Monge_Bonilla\ProyectoAvance_Sebastian_Monge_Bonilla\Theatres.cpp(8,16): error C2084: la función 'void Theatres::setSits(int)' ya tiene un cuerpo
+C:\Users\smong\source\repos\ProyectoAvance_Sebastian_Monge_Bonilla\ProyectoAvance_Sebastian_Monge_Bonilla\Theatres.h(14,7): message : vea la definición anterior de 'setSits'
+C:\Users\smong\source\repos\ProyectoAvance_Sebastian_Monge_Bonilla\ProyectoAvance_Sebastian_Monge_Bonilla\Theatres.cpp(9,2): error C2065: 'setSits': identificador no declarado
+C:\Users\smong\source\repos\ProyectoAvance_Sebastian_Monge_Bonilla\ProyectoAvance_Sebastian_Monge_Bonilla\Theatres.cpp(39,14): error C2084: la función 'Theatres::Theatres(void)' ya tiene un cuerpo
+C:\Users\smong\source\repos\ProyectoAvance_Sebastian_Monge_Bonilla\ProyectoAvance_Sebastian_Monge_Bonilla\Theatres.cpp(4,11): message : vea la definición anterior de '{ctor}'
+  Generando código...
